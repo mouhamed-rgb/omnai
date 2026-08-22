@@ -1,0 +1,9 @@
+{
+  "name": "omnia-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Omnia AI — واجهة دردشة مع نموذج ذكاء اصطناعي عبر Groq، محمية بواسطة Vercel Serverless Function",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
